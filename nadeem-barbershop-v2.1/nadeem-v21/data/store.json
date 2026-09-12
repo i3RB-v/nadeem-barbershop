@@ -1,0 +1,113 @@
+{
+  "shops": [
+    {
+      "id": "sh1",
+      "name_en": "Marj Al Hammam 1",
+      "name_ar": "مرج الحمام ١",
+      "map": "https://maps.app.goo.gl/gYVED84wFsUN25Ak7",
+      "image": "https://images.unsplash.com/photo-1520337362822-5b3cbe3f5940?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "sh2",
+      "name_en": "Marj Al Hammam 2",
+      "name_ar": "مرج الحمام ٢",
+      "map": "https://maps.app.goo.gl/48PffR7kvqorrESv7",
+      "image": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "sh3",
+      "name_en": "Marj Al Hammam 3",
+      "name_ar": "مرج الحمام ٣",
+      "map": "https://maps.app.goo.gl/358aRPzxgTZu5pyD7",
+      "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "sh4",
+      "name_en": "Marj Al Hammam 4",
+      "name_ar": "مرج الحمام ٤",
+      "map": "https://maps.app.goo.gl/6jXW4EgVgdCQDGQ56",
+      "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1000&q=85"
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "name_en": "Signature Haircut",
+      "name_ar": "قصة الشعر المميزة",
+      "desc_en": "Consultation, tailored cut, neck shave and styling.",
+      "desc_ar": "استشارة، قصة مخصصة، حلاقة الرقبة وتصفيف.",
+      "price": 15,
+      "duration": 45,
+      "image": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "s2",
+      "name_en": "Executive Beard Sculpt",
+      "name_ar": "تحديد وتصفيف اللحية",
+      "desc_en": "Hot towel prep, precision trimming and straight razor.",
+      "desc_ar": "منشفة ساخنة، تشذيب دقيق وحلاقة بالموس.",
+      "price": 10,
+      "duration": 30,
+      "image": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "s3",
+      "name_en": "The Royal Treatment",
+      "name_ar": "العناية الملكية",
+      "desc_en": "Full signature haircut plus executive beard sculpt.",
+      "desc_ar": "قصة مميزة كاملة مع تحديد وتصفيف اللحية.",
+      "price": 25,
+      "duration": 75,
+      "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1000&q=85"
+    }
+  ],
+  "barbers": [
+    {
+      "id": "b1",
+      "name_en": "Nadeem",
+      "name_ar": "نديم",
+      "role_en": "Master Barber",
+      "role_ar": "حلاق محترف",
+      "off_days": [
+        1
+      ],
+      "image": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?auto=format&fit=crop&w=900&q=85",
+      "whatsapp": "0791053844"
+    },
+    {
+      "id": "b2",
+      "name_en": "Khalid",
+      "name_ar": "خالد",
+      "role_en": "Senior Barber",
+      "role_ar": "حلاق أول",
+      "off_days": [],
+      "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=900&q=85",
+      "whatsapp": "0791053844"
+    },
+    {
+      "id": "b3",
+      "name_en": "Abood",
+      "name_ar": "عبود",
+      "role_en": "Style Specialist",
+      "role_ar": "أخصائي تصفيف",
+      "off_days": [],
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=900&q=85",
+      "whatsapp": "0791053844"
+    },
+    {
+      "id": "b4",
+      "name_en": "Malek",
+      "name_ar": "مالك",
+      "role_en": "Master Barber",
+      "role_ar": "حلاق محترف",
+      "off_days": [],
+      "image": "https://images.unsplash.com/photo-1534015699742-990a2a4b8898?auto=format&fit=crop&w=900&q=85",
+      "whatsapp": "0791053844"
+    }
+  ],
+  "hours": {
+    "start": 11,
+    "end": 24
+  },
+  "appointments": []
+}

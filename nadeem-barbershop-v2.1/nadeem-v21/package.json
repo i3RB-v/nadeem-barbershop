@@ -1,0 +1,14 @@
+{
+  "name": "nadeem-barbershop",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Nadeem BarberShop booking and management app",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {
+    "@google/genai": "latest",
+    "dotenv": "latest",
+    "nodemailer": "latest",
+    "twilio": "latest"
+  },
+  "engines": {"node": ">=18"}
+}

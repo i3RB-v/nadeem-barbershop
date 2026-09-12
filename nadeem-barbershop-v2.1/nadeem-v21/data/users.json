@@ -1,0 +1,40 @@
+{
+  "admins": [
+    {
+      "username": "admin",
+      "salt": "5853a1adfc7e7aab92856d6ea177b782",
+      "passwordHash": "8d760db0290ca8662a042b638802396c2752143d58f0d6a80793f85145f17764",
+      "role": "admin"
+    }
+  ],
+  "barbers": [
+    {
+      "username": "nadeem",
+      "salt": "0b4a2959c0d70f0fd19b40ed5551a047",
+      "passwordHash": "8be8c20b2d53668dd593031378f781d38b347fc75adf72e8cf7482617afa8d97",
+      "role": "barber",
+      "barberId": "b1"
+    },
+    {
+      "username": "khalid",
+      "salt": "54cad3a595f576d717d82f1687e31913",
+      "passwordHash": "70fce33c4bfb6cdedabc14e7515bee9dc9e35e6ecaeacec169d9a80e5e00fd15",
+      "role": "barber",
+      "barberId": "b2"
+    },
+    {
+      "username": "abood",
+      "salt": "acd53f0319a3d975c491f077a85f0848",
+      "passwordHash": "1a5d7b74072a1446fe58838df709a9e5e22d740c1d383a810a844d116afd586b",
+      "role": "barber",
+      "barberId": "b3"
+    },
+    {
+      "username": "malek",
+      "salt": "1aaefb7387da1b762064a8e8005a2b41",
+      "passwordHash": "afddc8b6924166c647499b137e0b68f7fd086c3ba0c8e17010cefcd25502370b",
+      "role": "barber",
+      "barberId": "b4"
+    }
+  ]
+}
